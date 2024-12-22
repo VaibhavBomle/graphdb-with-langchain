@@ -1,6 +1,6 @@
 # graphdb-with-langchain
 
-🚀 Building a Smart Q&A System with Neo4j and LangChain
+🚀 Building a Smart Q&A System with Neo4j(Graph-db) and LangChain
 
 Integrated Neo4j with LangChain to create a dynamic Q&A system powered by the ChatGroq LLM (Gemma2-9b-It). The system uses LangChain’s GraphCypherQAChain to convert natural language queries into Cypher queries and retrieve insights from a graph database.
 
