@@ -1,6 +1,6 @@
 movie_query =  """
 LOAD CSV WITH HEADERS FROM
-'https://raw.githubusercontent.com/tomasonjo/blog-datasets/main/movies/movies_small.csv
+'https://raw.githubusercontent.com/tomasonjo/blog-datasets/main/movies/movies_small.csv'
 
 MERGE(m.Movie{id:row.movieId})
 SET m.released = date(row.released),
