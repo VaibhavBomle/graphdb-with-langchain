@@ -18,4 +18,6 @@ This integration showcases the potential of combining graph databases with LLMs 
 3. Test  --->  2 files -->
 
    python Q&A.py
+
+   
    python prompt_strategies.py
