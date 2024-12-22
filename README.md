@@ -16,5 +16,6 @@ This integration showcases the potential of combining graph databases with LLMs 
 1. Create venv
 2. pip install -r requirements.txt
 3. Test  --->  2 files -->
+
    python Q&A.py
    python prompt_strategies.py
